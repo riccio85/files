@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Rihanna\AndroidStudioProjects\android-xpreader-master\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e4a9d42c6d45eed4fd52f28dee859884131eae4c">
+        <dex dex="C:\Users\Rihanna\AndroidStudioProjects\android-xpreader-master\app\build\intermediates\pre-dexed\debug\classes-89a1436d1f7bf02f907a9ef7a1127cc8c5920449.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rihanna\AndroidStudioProjects\android-xpreader-master\app\build\intermediates\exploded-aar\com.github.dexafree\materiallist\3.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="70036e565f7b7e4345e788ee814e91dd15c4d76e">
+        <dex dex="C:\Users\Rihanna\AndroidStudioProjects\android-xpreader-master\app\build\intermediates\pre-dexed\debug\classes-0dac8b3b411b757dde81c4492726cbce3088a801.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rihanna\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\Rihanna\AndroidStudioProjects\android-xpreader-master\app\build\intermediates\pre-dexed\debug\picasso-2.4.0-4933d8c8248eb0e6665f14e91832c24c1a06c354.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rihanna\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\Rihanna\AndroidStudioProjects\android-xpreader-master\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1-5ce0ac1817d1020380c15f7b0681b98090f248ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rihanna\AndroidStudioProjects\android-xpreader-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Rihanna\AndroidStudioProjects\android-xpreader-master\app\build\intermediates\pre-dexed\debug\classes-a2b24bb4519e8fcf0f0ecb6fe5e9a5cd867311d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rihanna\AndroidStudioProjects\android-xpreader-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="C:\Users\Rihanna\AndroidStudioProjects\android-xpreader-master\app\build\intermediates\pre-dexed\debug\classes-71290ff71771f2615fa9ba4077c4d6ac006773f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rihanna\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Rihanna\AndroidStudioProjects\android-xpreader-master\app\build\intermediates\pre-dexed\debug\okio-1.6.0-4fca7232f29a3d3d313c7f7750f0edaef20a9b8b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rihanna\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\Rihanna\AndroidStudioProjects\android-xpreader-master\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0-387433ca5d1e5469db6f7e79734dd8d39f26629a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rihanna\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Rihanna\AndroidStudioProjects\android-xpreader-master\app\build\intermediates\pre-dexed\debug\gson-2.3.1-22cc4db6e3eb148059f94e639f61aa3db2806c8c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rihanna\AndroidStudioProjects\android-xpreader-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="C:\Users\Rihanna\AndroidStudioProjects\android-xpreader-master\app\build\intermediates\pre-dexed\debug\classes-e1b8e71589cc6ecf6bf00dbb222f4def946be612.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rihanna\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Rihanna\AndroidStudioProjects\android-xpreader-master\app\build\intermediates\pre-dexed\debug\library-2.4.0-37ceb07fd4a1fb152263d983a07d63f3cd808637.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rihanna\AndroidStudioProjects\android-xpreader-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Rihanna\AndroidStudioProjects\android-xpreader-master\app\build\intermediates\pre-dexed\debug\classes-b18ad97bb9677bf34d58486afdf6a788d8a5cb01.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rihanna\AndroidStudioProjects\android-xpreader-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Rihanna\AndroidStudioProjects\android-xpreader-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-fb82a98bf930628e49719ae776f01141e1b3df69.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rihanna\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Rihanna\AndroidStudioProjects\android-xpreader-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-52f77b87eb1c4d64e08d770f84b8c5535ee60e3d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rihanna\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-gson\2.0.0-beta1\3de922cdbf9bb3a6f72f6b6b3327cfb348cf445a\converter-gson-2.0.0-beta1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3de922cdbf9bb3a6f72f6b6b3327cfb348cf445a">
+        <dex dex="C:\Users\Rihanna\AndroidStudioProjects\android-xpreader-master\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.0-beta1-95433ee057d5fb645f480fc8de4d9c8a47048528.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rihanna\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta1\53b5be42d6cf719ac1431b9aa9a4d5ab78856148\retrofit-2.0.0-beta1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="53b5be42d6cf719ac1431b9aa9a4d5ab78856148">
+        <dex dex="C:\Users\Rihanna\AndroidStudioProjects\android-xpreader-master\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0-beta1-b85494fda52cdffb596d0e548ac6b343a282cff5.jar" />
+    </item>
+
+</items>

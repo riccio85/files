@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.dexafree.materialList.card.CardLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/cardView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        card_view:cardCornerRadius="2dp"
+        android:layout_marginBottom="10dp">
+
+        <RelativeLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp">
+
+            <ImageView
+                android:id="@+id/image"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_alignParentLeft="true" />
+
+            <TextView
+                android:id="@+id/title"
+                android:textSize="15sp"
+                android:textColor="@color/primary_text"
+                android:layout_alignTop="@+id/image"
+                android:layout_toRightOf="@+id/image"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:ellipsize="end" />
+
+            <TextView
+                android:id="@+id/published"
+                android:textColor="@color/secondary_text"
+                android:layout_toRightOf="@+id/image"
+                android:layout_below="@+id/title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <!-- highlighted text if needed can go here hidden  -->
+
+            <TextView
+                android:id="@+id/intro"
+                android:textColor="@color/primary_dark"
+                android:layout_below="@+id/image"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="20dp"
+                android:maxLines="3"
+                android:ellipsize="end"/>
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+</com.dexafree.materialList.card.CardLayout>
